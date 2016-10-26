@@ -1,2 +1,2 @@
-# Flask
-Flask项目实战
+# Python.MQ
+Python 消息队列
